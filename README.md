@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mahesh s!
 
 <a href="https://www.linkedin.com/in/maheshs11/">
-  <img align="left" alt="mahesh s | Twitter" width="210px" src="https://raw.githubusercontent.com/maheshs11/maheshs11/assets/twitter (2).png"/>
+  <img align="left" alt="mahesh s | LinkedIN" width="210px" src="https://raw.githubusercontent.com/maheshs11/maheshs11/assets/twitter (2).png"/>
 </a>
 
 
