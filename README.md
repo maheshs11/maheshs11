@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mahesh s!
+### Hi there 👋, I'm Mahesh s !
 
 <a href="https://www.linkedin.com/in/maheshs11/">
   <img align="left" alt="mahesh s | LinkedIN" width="210px" src="https://raw.githubusercontent.com/maheshs11/maheshs11/assets/twitter (2).png"/>
@@ -15,7 +15,7 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=maheshs11&repo=vennfig&show_owner=true)](https://github.com/maheshs11)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=maheshs11&repo=vennfig&show_owner=true)](https://github.com/maheshs11/machine-learning/tree/main/depression%20detection%20in%20tweets)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=maheshs11&repo=statsfig&show_owner=true)](https://github.com/maheshs11)
 
