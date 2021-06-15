@@ -23,15 +23,11 @@
 
 
 
-**Languages and Tools:**  
+## Languages, Libraries and Frameworks used :
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/maheshs11/maheshs11/master/assets/python.png"></code>
 
-## Languages, Libraries and Frameworks used :
-<img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Flask" width="60px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
