@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mahesh s!
 
 <a href="https://www.linkedin.com/in/maheshs11/">
-  <img align="left" alt="mahesh s | Twitter" width="21px" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwEEN5mSwT0CFyE4i3l1gIw%3D%3D"/>
+  <img align="left" alt="mahesh s | Twitter" width="210px" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwEEN5mSwT0CFyE4i3l1gIw%3D%3D"/>
 </a>
 
 
