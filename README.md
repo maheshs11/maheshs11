@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I'm Mahesh s !
 
 <a href="https://www.linkedin.com/in/maheshs11/">
@@ -8,8 +9,11 @@
 <br />
 <br />
 
-<script src="https://gist.github.com/maheshs11/b8835ae43c4cf338bf4df2f0cb3d6eb1.pibb"
-        ></script>
+<a href="https://gist.github.com/maheshs11/b8835ae43c4cf338bf4df2f0cb3d6eb1.pibb">
+  <img align="right" alt="CLICK ME!!" width="210px" src="https://gist.github.com/maheshs11/b8835ae43c4cf338bf4df2f0cb3d6eb1.pibb"/>
+</a>
+
+*********************************************************************************************************************************************************
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maheshs11&theme=highcontrast&show_icons=true&count_private=true)
 
@@ -17,6 +21,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshs11&layout=compact)
 
+*********************************************************************************************************************************************************
 
 ## Languages, Libraries and Frameworks used :
 
