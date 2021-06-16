@@ -8,7 +8,7 @@
 <br />
 <br />
 
-
+<script src="https://gist.github.com/maheshs11/b8835ae43c4cf338bf4df2f0cb3d6eb1.js"></script>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maheshs11&theme=highcontrast&show_icons=true&count_private=true)
 
