@@ -25,11 +25,10 @@
 
 ## Languages, Libraries and Frameworks used :
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/maheshs11/maheshs11/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/maheshs11/maheshs11/master/assets/python.png"></code>
 
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Flask" width="60px"src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png"/>
+
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="keras" width="70px" src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"/>
 <img align="left" alt="Detectron2" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM2RwKXC2YkEVLDshDBGhnhuzmlg3EkhOwg2dc2I3ScLJJdV2fzrJiZ4XqKcTeiSNngYY&usqp=CAU" />
